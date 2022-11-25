@@ -9,6 +9,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
+![image](https://user-images.githubusercontent.com/92932055/203977175-256e6f3e-0a1e-46ea-a47f-219a88ff58c6.png)
 
 📫 Как со мной связаться:  
 * email: ypochta@yandex.ru

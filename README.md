@@ -6,8 +6,8 @@
   HTML / CSS / JavaScript / Node.js /  React JS / MongoDB / REST API / Git / Figma / Webpack / Nginx
 
 📫 Как со мной связаться:  
-email: ypochta@yandex.ru
-
+* email: ypochta@yandex.ru
+* Telegramm: https://t.me/yp_telega
 <!--
 **ypongit/ypongit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

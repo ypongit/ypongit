@@ -22,8 +22,8 @@
 <picture  style="border: 2px;">
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
   <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-  <img  height="24" alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-</picture> 
+  <img  height="24" alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+</picture>
 
 <picture  style="border: 2px;">
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">

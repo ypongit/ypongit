@@ -3,7 +3,12 @@
 Прошёл обучение в Яндекс.Практикуме. Получен диплом о профессиональной переподготовке по профессии "Веб-разработчик".
 В данный момент ищу возможность удаленной работы. Хочу Закрепить и расширить знания, полученные во время обучения, почувствовать уверенность в своих силах и приобрести опыт участия в реальных проектах.  
 ### Мой стек:
-  HTML / CSS / JavaScript / Node.js /  React JS / MongoDB / REST API / Git / Figma / Webpack / Nginx
+  HTML / CSS / JavaScript / Node.js /  React JS / MongoDB / REST API / Git / Figma / Webpack / Nginx  
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img alt="HTML" src="https://camo.githubusercontent.com/8544222dc2e275771bace1eea86beaf79a039d290b4db136a81152bfa20dfdf6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3362336233623f7374796c653d666c6174266c6f676f3d68746d6c35">
+</picture>
 
 📫 Как со мной связаться:  
 * email: ypochta@yandex.ru

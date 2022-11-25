@@ -48,6 +48,18 @@
   <img  height="24" alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 </picture>
 
+<picture  style="border: 2px;">
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black">
+  <img  height="24" alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black">
+</picture>
+
+<picture  style="border: 2px;">
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
+  <img  height="24" alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
+</picture>
+
 📫 Как со мной связаться:  
 * email: ypochta@yandex.ru
 * Telegram: https://t.me/yp_telega

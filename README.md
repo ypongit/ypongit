@@ -18,7 +18,25 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img  height="24" alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-</picture>  
+</picture> 
+
+<picture  style="border: 2px;">
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+  <img  height="24" alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+</picture> 
+
+<picture  style="border: 2px;">
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img  height="24" alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+</picture> 
+
+<picture  style="border: 2px;">
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img  height="24" alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+</picture> 
 📫 Как со мной связаться:  
 * email: ypochta@yandex.ru
 * Telegram: https://t.me/yp_telega

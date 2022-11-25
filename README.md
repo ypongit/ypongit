@@ -7,7 +7,7 @@
 
 📫 Как со мной связаться:  
 * email: ypochta@yandex.ru
-* Telegramm: https://t.me/yp_telega
+* Telegram: https://t.me/yp_telega
 <!--
 **ypongit/ypongit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

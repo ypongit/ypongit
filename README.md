@@ -3,6 +3,7 @@
 * В данный момент ищу возможность удаленной работы. 
 * Хочу закрепить и расширить знания, полученные во время обучения. Почувствовать уверенность в своих силах и приобрести опыт участия в реальных проектах.  
 ### Мой стек:
+HTML / CSS / JavaScript / Node.js /  React JS / MongoDB / REST API / Git / Figma / Webpack / Nginx
   <picture  style="border: 2px;">
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -72,4 +73,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  <!-- HTML / CSS / JavaScript / Node.js /  React JS / MongoDB / REST API / Git / Figma / Webpack / Nginx --> 
+   

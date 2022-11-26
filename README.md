@@ -3,7 +3,7 @@
 * В данный момент ищу возможность удаленной работы. 
 * Хочу закрепить и расширить знания, полученные во время обучения. Почувствовать уверенность в своих силах и приобрести опыт участия в реальных проектах.  
 ### Мой стек:
-HTML / CSS / JavaScript / Node.js /  React JS / MongoDB / REST API / Git / Figma / Webpack / Nginx  
+  
   <picture  style="border: 2px;">
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -54,6 +54,7 @@ HTML / CSS / JavaScript / Node.js /  React JS / MongoDB / REST API / Git / Figma
   <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
   <img  height="24" alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
 </picture>  
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ypongit)](https://github.com/ypongit/github-readme-stats)  
 📫 Как со мной связаться:  
 * email: ypochta@yandex.ru
